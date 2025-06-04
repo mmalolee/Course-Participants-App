@@ -1,0 +1,141 @@
+name;gender;age;edu_level;fav_animals;sweet_or_salty;fav_place
+Anastazja;Female;<18;Primary;No preferences;No data;No data
+Ignacy;Male;25-34;Primary;Dogs;Sweet;Lake
+Dominik;Male;45-54;Primary;Dogs;Salty;Forest
+Jakub;Male;35-44;Primary;Cats;Sweet;Mountains
+Konstanty;Male;35-44;Primary;Dogs;Sweet;Lake
+Maksymilian;Male;25-34;Primary;Dogs;No data;Forest
+Igor;Male;25-34;Primary;Cats;Sweet;Mountains
+Konrad;Male;25-34;Primary;No preferences;Sweet;Mountains
+Eliza;Female;45-54;Primary;Dogs;Sweet;Mountains
+Tymoteusz;Male;18-24;Primary;Cats;Salty;Mountains
+Fabian;Male;35-44;Primary;No preferences;No data;Mountains
+Kornelia;Female;25-34;Primary;Dogs;Sweet;Forest
+Dariusz;Male;35-44;Primary;Dogs;Sweet;Lake
+Eryk;Male;35-44;Primary;Other;Sweet;Mountains
+Kacper;Male;45-54;Primary;Other;No data;Lake
+Konstanty;Male;35-44;Primary;Cats;Sweet;Lake
+Norbert;Male;>=65;Primary;No preferences;Sweet;No data
+Grzegorz;Male;45-54;Primary;Dogs;Salty;Mountains
+Eryk;Male;35-44;Primary;Cats;Sweet;No data
+Ada;Female;45-54;Primary;Cats and Dogs;Salty;Lake
+Maksymilian;Male;35-44;Primary;Dogs;Salty;Lake
+Kaja;Female;>=65;Primary;No preferences;Salty;Forest
+Filip;Male;35-44;Primary;Dogs;Sweet;Lake
+Emil;Male;35-44;Primary;Dogs;Sweet;Lake
+Oliwier;Male;45-54;Primary;Dogs;Sweet;Lake
+Jerzy;Male;45-54;Primary;Dogs;Salty;Forest
+Tymoteusz;Male;35-44;Primary;Cats;Sweet;Mountains
+Borys;Male;35-44;Primary;Cats;Salty;Mountains
+Nicole;Female;25-34;Primary;Cats;Salty;Mountains
+Maurycy;Male;25-34;Primary;Cats;Sweet;Mountains
+Ryszard;Male;55-64;Primary;Other;No data;No data
+Anastazja;Female;35-44;Primary;Dogs;Sweet;Lake
+Karol;Male;35-44;Primary;Cats;Sweet;Lake
+Julian;Male;25-34;Primary;Other;Sweet;Other
+Albert;Male;45-54;Primary;Cats;Salty;Other
+Borys;Male;25-34;Primary;Dogs;Salty;Lake
+Patryk;Male;25-34;Primary;Other;Salty;Mountains
+Damian;Male;35-44;Primary;No preferences;Sweet;Lake
+Sebastian;Male;45-54;Primary;Dogs;No data;Mountains
+Łukasz;Male;25-34;Primary;Dogs;Sweet;Mountains
+Oskar;Male;45-54;Primary;Cats;Sweet;Forest
+Leon;Male;35-44;Primary;Dogs;Salty;Mountains
+Adam;Male;35-44;Primary;No preferences;Sweet;Forest
+Karina;Female;35-44;Primary;Dogs;Salty;Lake
+Dorota;Female;45-54;Primary;Dogs;Sweet;Lake
+Patryk;Male;45-54;Primary;Dogs;Sweet;Lake
+Kazimierz;Male;35-44;Primary;Other;Salty;Mountains
+Tola;Female;45-54;Primary;Dogs;Sweet;Lake
+Cyprian;Male;Unknown;Primary;No preferences;No data;No data
+Monika;Female;>=65;Primary;No preferences;Sweet;Mountains
+Sara;Female;45-54;Primary;No preferences;Salty;Mountains
+Inga;Female;45-54;Primary;Other;Salty;Forest
+Inga;Female;25-34;Primary;Dogs;Sweet;Other
+Maksymilian;Male;18-24;Primary;No preferences;Sweet;Mountains
+Oskar;Male;35-44;Primary;Dogs;Salty;Forest
+Witold;Male;25-34;Primary;Cats;Salty;Forest
+Marcel;Male;55-64;Primary;Dogs;Sweet;Mountains
+Konrad;Male;35-44;Primary;Dogs;Salty;Mountains
+Kazimierz;Male;35-44;Primary;Dogs;Salty;Forest
+Nataniel;Male;35-44;Primary;Other;Sweet;Lake
+Kacper;Male;45-54;Primary;Dogs;Salty;Mountains
+Paweł;Male;35-44;Primary;Other;Salty;Lake
+Ewa;Female;35-44;Primary;No preferences;No data;No data
+Aurelia;Female;35-44;Primary;Cats and Dogs;Sweet;Mountains
+Bruno;Male;35-44;Primary;Cats;Sweet;Mountains
+Bruno;Male;>=65;Primary;No preferences;Sweet;Mountains
+Artur;Male;45-54;Primary;Other;Salty;Other
+Marek;Male;45-54;Primary;Dogs;Sweet;Lake
+Maciej;Male;35-44;Primary;Dogs;Salty;Lake
+Ida;Female;25-34;Primary;Dogs;Sweet;Lake
+Dorota;Female;35-44;Primary;Other;Sweet;Lake
+Antoni;Male;55-64;Primary;Dogs;Salty;Lake
+Jacek;Male;55-64;Primary;Dogs;Salty;Lake
+Julian;Male;45-54;Primary;Cats and Dogs;Salty;No data
+Maurycy;Male;35-44;Primary;Dogs;Salty;Mountains
+Karina;Female;35-44;Primary;Dogs;Sweet;Forest
+Józef;Male;55-64;Primary;Cats and Dogs;Salty;Lake
+Sylwia;Female;35-44;Primary;Dogs;Sweet;No data
+Sonia;Female;25-34;Primary;Dogs;Sweet;Forest
+Oliwier;Male;35-44;Primary;Dogs;Salty;No data
+Paweł;Male;25-34;Primary;Other;Sweet;Mountains
+Kacper;Male;55-64;Primary;Dogs;Sweet;No data
+Bartek;Male;18-24;Primary;Dogs;Salty;Mountains
+Ewelina;Female;35-44;Primary;Dogs;Salty;Lake
+Cyprian;Male;45-54;Primary;Dogs;Salty;No data
+Nela;Female;35-44;Primary;Other;Sweet;Other
+Eliza;Female;45-54;Primary;Dogs;Sweet;Lake
+Tadeusz;Male;35-44;Primary;No preferences;Salty;Mountains
+Kazimierz;Male;45-54;Primary;Dogs;Salty;Mountains
+Grzegorz;Male;25-34;Primary;Dogs;Salty;Lake
+Grzegorz;Male;35-44;Primary;Dogs;Salty;Lake
+Dariusz;Male;25-34;Primary;Other;Sweet;Forest
+Mikołaj;Male;25-34;Primary;Dogs;Salty;Mountains
+Cyprian;Male;45-54;Primary;Other;Sweet;Forest
+Ewelina;Female;Unknown;Primary;Dogs;Sweet;Lake
+Cyprian;Male;35-44;Primary;Dogs;Salty;Forest
+Borys;Male;45-54;Primary;Dogs;Sweet;Forest
+Józef;Male;55-64;Primary;Dogs;Salty;Forest
+Marika;Female;35-44;Primary;Dogs;Sweet;Forest
+Tomasz;Male;35-44;Primary;Dogs;Sweet;No data
+Tola;Female;35-44;Primary;Dogs;Sweet;Lake
+Tymon;Male;35-44;Primary;No preferences;Sweet;Lake
+Marcin;Male;35-44;Primary;No preferences;No data;No data
+Franciszek;Male;45-54;Primary;Other;Sweet;Other
+Aleks;Male;45-54;Primary;No preferences;Salty;Mountains
+Norbert;Male;55-64;Primary;Dogs;Sweet;Lake
+Kazimierz;Male;35-44;Primary;Dogs;Sweet;Mountains
+Marcelina;Female;35-44;Primary;Cats;Sweet;Mountains
+Kaja;Female;45-54;Primary;Dogs;Sweet;Lake
+Witold;Male;25-34;Primary;Cats;Sweet;Forest
+Kornel;Male;45-54;Primary;Dogs;Sweet;Lake
+Fryderyk;Male;45-54;Primary;Dogs;Sweet;Lake
+Dawid;Male;35-44;Primary;Cats;Salty;Mountains
+Maciej;Male;45-54;Primary;Dogs;Salty;Other
+Józef;Male;45-54;Primary;Dogs;Sweet;Forest
+Sebastian;Male;25-34;Primary;Cats;No data;No data
+Maks;Male;45-54;Primary;No preferences;Salty;Lake
+Ryszard;Male;45-54;Primary;Other;Sweet;Forest
+Piotr;Male;45-54;Primary;Dogs;Sweet;Forest
+Jakub;Male;25-34;Primary;Dogs;Sweet;Mountains
+Kacper;Male;45-54;Primary;Other;Sweet;Mountains
+Aleks;Male;18-24;Primary;Dogs;Salty;Lake
+Tymon;Male;35-44;Primary;Dogs;Sweet;Lake
+Alex;Male;45-54;Primary;Dogs;Salty;Forest
+Emil;Male;>=65;Primary;Dogs;Sweet;Lake
+Witold;Male;35-44;Primary;Cats;Sweet;Mountains
+Błażej;Male;35-44;Primary;Dogs;Salty;Other
+Adrianna;Female;45-54;Primary;Dogs;Sweet;No data
+Dariusz;Male;45-54;Primary;Other;Sweet;Lake
+Jakub;Male;35-44;Primary;No preferences;Sweet;Forest
+Tymon;Male;18-24;Primary;Dogs;Salty;Mountains
+Witold;Male;35-44;Primary;Dogs;Salty;Lake
+Rafał;Male;45-54;Primary;Cats;Salty;Forest
+Ignacy;Male;35-44;Primary;Other;Sweet;Mountains
+Mariusz;Male;55-64;Primary;Dogs;Sweet;Lake
+Dariusz;Male;35-44;Primary;Cats;Salty;Mountains
+Olgierd;Male;35-44;Primary;Dogs;Sweet;Mountains
+Marcelina;Female;45-54;Primary;Dogs;Sweet;Forest
+Aniela;Female;35-44;Primary;Dogs;Salty;Lake
+Jacek;Male;18-24;Primary;Other;Sweet;Mountains
